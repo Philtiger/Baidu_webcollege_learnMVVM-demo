@@ -2,8 +2,8 @@
 ***
 ### 第一堂课 熟悉Git使用
 * 配置用户名_邮箱 <br>
-    git config --global user.name 'Philtiger' <br>
-    git config --global user.email '2444833936@qq.com'
+    git config --global user.name '' <br>
+    git config --global user.email ''
 
 * 克隆远程仓库 <br>
     git clone '' <br>
