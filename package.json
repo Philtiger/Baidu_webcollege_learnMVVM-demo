@@ -1,0 +1,23 @@
+{
+  "name": "Baidu_webcollege_learnMVVM-demo",
+  "version": "1.0.0",
+  "description": "*** ### 第一堂课 熟悉Git使用 * 配置用户名_邮箱 <br>     git config --global user.name '' <br>     git config --global user.email ''",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Philtiger/Baidu_webcollege_learnMVVM-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Philtiger/Baidu_webcollege_learnMVVM-demo/issues"
+  },
+  "homepage": "https://github.com/Philtiger/Baidu_webcollege_learnMVVM-demo#readme",
+  "dependencies": {
+    "@babel/preset-react": "^7.0.0"
+  }
+}
